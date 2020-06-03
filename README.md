@@ -1,34 +1,4 @@
- 
-## 英雄帖
-
->项目还有许多待改进的地方，欢迎小伙伴提交pr，我会将大家完成的工作展示在README中！
-
-# 项目效果图  
-
-## 登陆页面
-
-![登录](https://raw.githubusercontent.com/lenve/VBlog/master/doc/login.png)  
-
-## 文章列表
-
-![文章列表](https://raw.githubusercontent.com/lenve/VBlog/master/doc/article.png)  
-
-## 发表文章
-
-![发表文章](https://raw.githubusercontent.com/lenve/VBlog/master/doc/post.png)  
-
-## 用户管理
-
-![用户管理](https://raw.githubusercontent.com/lenve/VBlog/master/doc/usermana.png)  
-
-## 栏目管理
-
-![栏目管理](https://raw.githubusercontent.com/lenve/VBlog/master/doc/category.png)  
-
-## 数据统计
-
-![数据统计](https://raw.githubusercontent.com/lenve/VBlog/master/doc/datastatistics.png)  
-
+smy68 
 # 技术栈  
 
 ## 后端技术栈
